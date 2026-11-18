@@ -4,7 +4,7 @@ Juego de mesa clásico "Serpientes y Escaleras" para 2 a 4 jugadores, implementa
 
 ## Autores
 - Andrés Felipe Fonseca Ardila
-- [Nombre del compañero]
+- Andrés Felipe Mambuscay Reyes
 
 ## Descripción general
 El sistema simula una partida de Serpientes y Escaleras sobre un tablero de 100 casillas. Cada jugador lanza un dado por turnos y avanza su ficha; si cae en la cabeza de una serpiente retrocede hasta su cola, y si cae en el inicio de una escalera avanza hasta su final. Gana el primer jugador en llegar exactamente a la casilla 100.
